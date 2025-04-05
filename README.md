@@ -24,10 +24,4 @@ Estoy abierto a colaborar en proyectos interesantes donde pueda aportar con mis 
 
 ---
 
-### 📫 Puedes contactarme en:
-- 📧 **[Tu correo o LinkedIn si lo quieres agregar]**
-- 💼 **[Tu portafolio (si tienes)]**
-
----
-
 > _"La tecnología cambia, pero las buenas prácticas permanecen."_ ✨
